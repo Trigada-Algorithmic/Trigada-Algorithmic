@@ -194,13 +194,6 @@ Yes. Each bot is an independent module, so traders can deploy one, several, or a
 </details>
 
 <details>
-<summary><b>Is Trigada AI suitable for beginners?</b></summary>
-
-Generally no. The software assumes familiarity with algorithmic trading concepts, brokerage account management, and capital risk. Beginners are typically better served learning manual trading fundamentals first.
-
-</details>
-
-<details>
 <summary><b>Where can I learn more about Trigada AI?</b></summary>
 
 Detailed information about the company, the four-bot product lineup, and the verified performance records is available on the [official Trigada AI website](https://trigada.com/).
